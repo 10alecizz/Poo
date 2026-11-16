@@ -1,0 +1,12 @@
+[
+  {
+    "text": "Learn ES6 Modules",
+    "category": "Development",
+    "completed": false
+  },
+  {
+    "text": "Design Landing Page",
+    "category": "Design",
+    "completed": true
+  }
+]

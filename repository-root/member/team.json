@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Javier Perez",
+    "role": "Frontend Developer",
+    "department": "Development",
+    "availability": "Available"
+  },
+  {
+    "name": "Victor LB Clarent",
+    "role": "UI/UX Designer",
+    "department": "Design",
+    "availability": "Busy"
+  },
+  {
+    "name": "Franchu",
+    "role": "Backend Developer",
+    "department": "Development",
+    "availability": "Available"
+  },
+  {
+    "name": "Alexis",
+    "role": "CEO",
+    "department": "Development",
+    "availability": "Available"
+  }
+]

@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; background: #f0f4f8; padding: 2rem; }
+h1 { text-align: center; }
+.filter { text-align: center; margin: 1.5rem 0; }
+select { padding: 6px 12px; font-size: 1rem; }
+.container { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 1.2rem; }
+.member-card { background: #fff; padding: 1.2rem; border-radius: 10px; box-shadow: 0 1px 5px rgba(0, 0, 0, 0.12); }
+.member-card h3 { margin-top: 0; }
+.member-card p { margin: 0.3rem 0; }

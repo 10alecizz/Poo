@@ -1,0 +1,20 @@
+[
+  {
+    "title": "El Amarillazo",
+    "director": "Pablo",
+    "year": 2010,
+    "score": 10
+  },
+  {
+    "title": "La Ruleta Caliente",
+    "director": "Carlos, Mario",
+    "year": 1999,
+    "score": 6.7
+  },
+  {
+    "title": "El Cientifico",
+    "director": "Nacho Vidal",
+    "year": 2003,
+    "score": 9.7
+  }
+]
